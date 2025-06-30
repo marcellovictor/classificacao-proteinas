@@ -8,7 +8,7 @@ A base de dados do UniProt utilizada neste projeto não está incluída no repos
 
 Para obter a base de dados necessária, siga os passos abaixo:
 
-1. Acesse o site do uniprot através deste link, dado que já estará com os filtros das proteínas que foram utilizadas : [[link](https://www.uniprot.org/)](https://www.uniprot.org/uniprotkb?query=%28go%3A0005215%29+OR+%28go%3A0005198%29+OR+%28go%3A0003824%29+OR+%28go%3A0005488%29&facets=reviewed%3Atrue)
+1. Acesse o site do uniprot através deste link, dado que já estará com os filtros das proteínas que foram utilizadas : [https://www.uniprot.org/](https://www.uniprot.org/uniprotkb?query=%28go%3A0005215%29+OR+%28go%3A0005198%29+OR+%28go%3A0003824%29+OR+%28go%3A0005488%29&facets=reviewed%3Atrue)
 
 2. Faça o download do dataset **Reviewed (Swiss-Prot)** em formato `.tsv`
 
