@@ -18,6 +18,4 @@ Para obter a base de dados necessária, siga os passos abaixo:
    - **Length**
    - **Mass**
 
-### Configuração
-
 Após o download, coloque o arquivo `.tsv` no diretório do projeto.
